@@ -4,7 +4,7 @@
 
 ## 使用方法
 
-  1. **下载模板** ：点击 [Releases](https://github.com/your-username/your-repo-name/releases) 下载最新的模板文件压缩包。
+  1. **下载模板** ：点击 [Releases]([https://github.com/your-username/your-repo-name/releases](https://github.com/ace-trump-tech/NJUPT-Thesis/tree/main?tab=readme-ov-file)) 下载最新的模板文件压缩包。
   2. **解压文件** ：将下载的压缩包解压到本地文件夹中。
   3. **编辑论文** ：使用 LaTeX 编辑器（如 TeXworks、Overleaf 等）打开模板文件，按照文档中的注释和示例，替换内容以撰写你的论文。确保你已经安装了相应的 LaTeX 发行版（如 TeX Live 或 MiKTeX）。
   4. **安装依赖** ：如果遇到缺失宏包的提示，请根据提示安装所需宏包，或者在 TeX 发行版的包管理器中搜索并安装常用学术论文相关的宏包，如 hyperref、graphicx、biblatex 等。
@@ -31,7 +31,19 @@
 
 ## 示例图片
 
-！[示例图片](p1.jpg)
+<table style="width:100%">
+  <tr>
+    <td style="text-align: center;">
+      <img src="p1.jpg" width="300">
+    </td>
+    <td style="text-align: center;">
+      <img src="p2.jpg" width="300">
+    </td>
+    <td style="text-align: center;">
+      <img src="p3.jpg" width="300">
+    </td>
+  </tr>
+</table>
 
 ## 相关教程
 
