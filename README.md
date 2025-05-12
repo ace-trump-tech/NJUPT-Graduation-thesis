@@ -31,7 +31,7 @@
 
 ## 示例图片
 
-[p1.jpg][p2.jpg][p3.jpg]
+！[image][p1.jpg]
 
 ## 相关教程
 
