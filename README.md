@@ -31,7 +31,7 @@
 
 ## 示例图片
 
-![示例图片](NJUPT_Thesis_Template.pdf)
+[p1.jpg][p2.jpg][p3.jpg]
 
 ## 相关教程
 
