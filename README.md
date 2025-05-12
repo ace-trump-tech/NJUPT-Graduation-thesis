@@ -31,7 +31,7 @@
 
 ## 示例图片
 
-[查看示例图片](https://github.com/your-username/your-repo-name/blob/main/NJUPT_Thesis_Template.pdf)
+![示例图片](NJUPT_Thesis_Template.pdf)
 
 ## 相关教程
 
