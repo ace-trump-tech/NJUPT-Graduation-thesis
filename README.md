@@ -5,13 +5,13 @@
 ## 使用方法
 
   1.**点击Star** ：如图中箭头，先点一手star。
-     <table style="width:100%">
-  <tr>
-    <td style="text-align: center;">
-      <img src="指南.jpg" width="500">
-    </td>
-  </tr>
-</table>
+    <table style="width:100%">
+      <tr>
+      <td style="text-align: center;">
+        <img src="指南.jpg" width="1000">
+      </td>
+    </tr>
+  </table>
 
   2. **下载模板** ：点击 [Releases]([https://github.com/your-username/your-repo-name/releases](https://github.com/ace-trump-tech/NJUPT-Thesis/tree/main?tab=readme-ov-file)) 下载最新的模板文件压缩包。
   3. **解压文件** ：将下载的压缩包解压到本地文件夹中。
